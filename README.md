@@ -34,6 +34,8 @@ The PCB was designed in KiCad. The switch matrix uses COL2ROW diode direction wi
 
 The case is two-part and 3D printed. The top shell holds the switches, encoder, and OLED in place, while the bottom shell houses the PCB. Everything is secured with 4x M3x16mm screws threading into M3x5x4mm heat-set inserts pressed into the bottom shell.
 
+[OnShape Link](https://cad.onshape.com/documents/35dce9458257a454ca9a87ec/w/10d574b05dc610b688c542cb/e/be3f2022d5b231c4560e80a7)
+
 ## Firmware
 
 Written using **KMK** (CircuitPython) — no compiling or flashing needed after the initial CircuitPython setup. Just edit `code.py` on the `CIRCUITPY` drive and it reloads automatically.
